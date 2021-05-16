@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SmartDustbin</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="add_devices">Add devices</string>
+    <string name="ProfilMenu">Profile</string>
+    <string name="login_text">Log In</string>
+    <string name="sign_up_enter_email">Enter email</string>
+    <string name="form_enter_password">Enter password</string>
+    <string name="sign_up_text">Do not have account? Sign up.</string>
+    <string name="loadingTest">Loading....</string>
+    <string name="sign_up_enter_name">Enter Name</string>
+    <string name="create_account">Sign Up</string>
+    <string name="form_enter_phone">Enter Phone</string>
+    <string name="sign_up_renter_pw">Re-enter password</string>
+    <string name="sign_in_text">Already have account? Sign in here.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="living_room">Living Room</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="enter_device_name_eg_living_room">Enter device name eg: Living room</string>
+    <string name="enter_device_id">Enter device Id</string>
+    <string name="enter_device_secret">Enter device secret.</string>
+    <string name="note_device_id_and_secret_are_found_at_bottom_of_the_dustbin">Note: Device id and secret are found at bottom of the dustbin.</string>
+    <string name="add_device">Add device</string>
+    <string name="room">L Room</string>
+    <string name="remove_this_device">Remove this device.</string>
+    <string name="name_name">Name Name</string>
+    <string name="email_dummmy">email@rmail.com</string>
+    <string name="log_out">Log Out</string>
+    <string name="email_dummy">email@gmail.com</string>
+</resources>

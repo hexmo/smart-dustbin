@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189188276702",
+    "project_id": "smart-dustbin-f1d7e",
+    "storage_bucket": "smart-dustbin-f1d7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189188276702:android:645ee03f9444ce24a35d4f",
+        "android_client_info": {
+          "package_name": "com.example.smartdustbin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189188276702-lqvnv5au02r21oavmopfhveqha4ebe0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4xwm7fw0MM0pWe5LXs20DpycWTavubTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189188276702-lqvnv5au02r21oavmopfhveqha4ebe0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
